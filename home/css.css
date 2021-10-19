@@ -1,0 +1,34 @@
+.“main” {
+    width: 1200px;
+    min-height: 600px;
+    margin: 0px auto;
+    background-color: rgb(229, 191, 11);
+
+}
+
+.header {
+    text-align: center;
+    color: #0b2a03;
+
+}
+
+.description {
+    color: #5b544d;
+    text-align: justify;
+
+}
+
+.img {
+    border-left: 3px solid saddlebrown;
+    box-sizing: border-box;
+
+}
+
+
+
+
+
+
+
+
+
